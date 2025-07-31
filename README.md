@@ -26,13 +26,19 @@ Built a feature-rich, interactive dashboard in Power BI to provide insights on:
  KPI cards for Total Donations, Gift Aid, Active Donors and Average Donation Value
  Slicers for filtering by Country, Project, Donor Category, Payment Type and more
 
-# Key Metrics Visualized
+# 4. Key Metrics Visualized
 Total Donations, 
+
 Gift Aid Contributions,
+
 Donor Count( unique donors),
+
 Top Donor,
+
 Top Project,
+
 Top Country,
+
 Yearly Growth, etc.     
 
 # Tools & Technologies
